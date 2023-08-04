@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+(https://github-readme-stats.vercel.app/api?username=FsXVanilla&show_icons=true&theme=transparent)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FsXVanilla&show_icons=true&theme=transparent"/>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
