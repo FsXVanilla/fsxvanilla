@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?username=FsXVanilla&show_icons=true&theme=transparent
+
+<img src="https://github-readme-stats.vercel.app/api?username=FsXVanilla&show_icons=true&theme=transparent"/>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
