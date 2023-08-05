@@ -11,7 +11,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FsXVanilla&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-  <img align="left" src="https://komarev.com/ghpvc/?username=itbeard&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="FsXVanilla"/>
+  <img align="left" src="https://komarev.com/ghpvc/?username=FsXVanilla&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="FsXVanilla"/>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
