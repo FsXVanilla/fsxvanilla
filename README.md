@@ -3,12 +3,15 @@
 - Interested in data science, penetration testing & cybersecurity software.
 - Currently learning aiogram (async) lib for coding telegram bots
 - Using Kali with GNOME
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FsXVanilla&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FsXVanilla&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+  <img align="left" src="https://komarev.com/ghpvc/?username=itbeard&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="FsXVanilla"/>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
